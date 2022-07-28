@@ -11,7 +11,7 @@
 # Dataset
 • Transactional data from the loyalty card scheme including 3,000 customers' purchase record in 6 months
 
-• The data contains time,customer id,total spend, total qty.
+• Two files were used to underpin the analysis: basket.csv and lineitem.csv
  
  
  # What's in the project
