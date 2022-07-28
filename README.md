@@ -2,8 +2,9 @@
 
 
 # Objective
-The purpose of the report is to propose an RFM based clustering technique and to classify customers of
-a national convenience store chain into segments. Business recommendation are proposed based on the analysis result.
+▪︎ The purpose of the project is to perform a customer segmentation on a transactional dataset provided by a convenience store chain.
+
+▪︎ Based on the result, customer profile for each group is generated and business recommendation derived from the clustering results are also provided.
 
 
 
