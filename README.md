@@ -17,7 +17,7 @@
  # What's in the project
  • Data Cleansing in Python `pandas`
   
- • Feature Engineer - `PCA`
+ • Feature Engineer - `sklearn`,'`MinMaxScaler`,`PCA`
  
  • Perform Clustering using `KMeans`, `silhouette_score`
  
@@ -45,7 +45,14 @@
  **Count of unique product id**: The count of unique product an individual has bought.
  
  
+# Segmentation Result Preview 
+![Screenshot 2022-07-28 at 20 56 05](https://user-images.githubusercontent.com/96019377/181626088-628caf6f-b604-4497-abeb-53ad1511ed4b.png)
 
+
+![Screenshot 2022-07-28 at 20 56 24](https://user-images.githubusercontent.com/96019377/181626136-1bf3d861-1ed6-43e6-913e-931e89f69365.png)
+
+
+![Screenshot 2022-07-28 at 20 56 30](https://user-images.githubusercontent.com/96019377/181626147-3ecc879f-2ad1-4e6f-9c81-0206374cdd9e.png)
 
 
 
