@@ -1,5 +1,3 @@
-# Customer-Segmentation-of-Retail-Industry
-
 
 # Objective
 ▪︎ The purpose of the project is to perform a customer segmentation on a transactional dataset provided by a convenience store chain.
