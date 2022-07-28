@@ -14,6 +14,17 @@
 • The data contains time,customer id,total spend, total qty.
  
  
+ # What's in the project
+ • Data Cleansing in Python `pandas`
+  
+ • Feature Engineer - `PCA`
+ 
+ • Perform Clustering using `KMeans`, `silhouette_score`
+ 
+ • Visualize group difference with `Matplotlib`,`seaborn`
+ 
+ 
+ 
  # Feature Description
  RFM is one of the most widely used methods to perform customer segmentation due to its simplicity and availability.
  On top of that, the report takes other behavrioul data into consideration to better identify customer groups.
@@ -35,27 +46,6 @@
  
  
 
-
-# Feature Engineering
-• Due to high correlation between features is likely to decrease the performace of the clustering (curse of the dimensionality)
-
-• `PCA` (Principle component analysis) is employed to reduce the dimension
-
-• 95% information is retained with 4 PCA components
-
-
-# Clustering
-• Apply `KMeans` from Sklearn
-
-• Using `silhouette_score` to decide the value of k
-
-
-# Segmentation Result Analysis
-• Use `df.describe()` to print the overall information of each cluster 
-
-• Apply seaborn to visualize the customer composition in pie charts
-
-• Visualize the difference between groups with box plots
 
 
 
