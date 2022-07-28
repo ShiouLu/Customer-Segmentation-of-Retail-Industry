@@ -64,16 +64,7 @@ Tend to make less frequent trips to the shops but whenever they shop, they spend
 **GROUP 4 - High Contribution Active**: Highest visit frequency, high monetary value. They're in favor of multiple top-up shops instead of having main grocery shoppings.
 
 
-# Business Recommendations: 
-**Priority for future marketing campaigns**
 
-**1. Low Contribute Loyal**: 60% of the customers belong to the group. Increase their average spending will contribute significantly in the revenue.
-
-**Proposals**: Offer conditional promotions (eg. 3 for 2) to stimulate spending
-
-**2. At Risk customer**: The group has high average spend, need to know what caused their less frequent visit. 
-
-**Proposals: Personalized vouchers. Customer survey form to understand more about their dissaticfations. 
  
  
  
